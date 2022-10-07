@@ -1,1 +1,1 @@
-# shiny_distributions
+## R/Shiny App describing Probability Distributions
